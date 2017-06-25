@@ -1,2 +1,2 @@
-# QM_Autoedotor
+# QM_Autoeditor
 Test WordPress Plugin
